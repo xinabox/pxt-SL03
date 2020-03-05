@@ -14,7 +14,7 @@ namespace SL03 {
      */
     //%block="SL03 begin"
     //%shim=sl03::begin
-    //% group="Optional"
+    //%group="Optional"
     export function begin(): void {
         return;
     }
