@@ -1,4 +1,4 @@
-//% color=#444444 icon="\uf0eb"
+//% color=#444444 icon="\f018"
 //% groups=['On start', 'Variables', 'Optional']
 namespace SL03 {
 
