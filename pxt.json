@@ -1,0 +1,24 @@
+{
+    "name": "pxt-SL03",
+    "version": "0.0.1",
+    "description": "XinaBox SL03 Line Follower",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "sl03.h",
+        "sl03.cpp",
+        "sl03.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "maker",
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
